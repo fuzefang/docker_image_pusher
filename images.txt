@@ -1,3 +1,14 @@
 redis:7.4.2
 redis:7.4.1
-redis:8.0-M02
+mysql:8.0-bookworm
+mysql:8.0.40-bookworm
+mongodb/mongodb-community-server:7.0.0-ubi8
+mongodb/mongodb-community-server:7.0.12-ubi8-20250121T081742Z
+mbryzek/apidoc:0.11.93
+mbryzek/apidoc:0.11.92
+nginx:stable-perl
+nginx:stable-bookworm-perl
+rabbitmq:management-alpine
+rabbitmq:4.1-rc-management-alpine
+emqx:5.8.4
+emqx:5.7.2
