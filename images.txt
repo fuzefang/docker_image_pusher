@@ -2,3 +2,13 @@ redis:7.4.2
 redis:7.4.1
 mysql:8.0.40-bookworm
 mysql:8.0-bookworm
+mongodb/mongodb-community-server:7.0.15-ubuntu2204
+mongodb/mongodb-community-server:6.0.10-ubuntu2204
+mbryzek/apidoc:0.11.93
+mbryzek/apidoc:0.11.92
+nginx:stable-perl
+nginx:stable-bookworm-perl
+rabbitmq:management-alpine
+rabbitmq:4.0.5-management-alpine
+emqx:5.8.4
+emqx:5.7.2
